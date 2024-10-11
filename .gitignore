@@ -1,0 +1,11 @@
+main
+main2
+*.o
+*.gcda
+*.gcno
+*.gcov
+coverage_report/*
+coverage.info
+*.profdata
+*.profraw
+lcov-report/*
